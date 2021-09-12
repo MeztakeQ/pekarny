@@ -7,7 +7,7 @@
     background-size: cover;
     background-attachment: fixed;
     position: relative;
-    background-image: url(../images/header/bg.png);
+    
 }
 .header__top {
     display: flex;
@@ -273,6 +273,7 @@
     top: 80px;
     left: 30%;
     width: 50%;
+    background-image: url(../images/art/decor.png);
 }
 .art__wrap-text {
     color: #c9b176;
@@ -290,7 +291,7 @@
    background-repeat: no-repeat;
    background-size: cover;
    background-attachment: fixed;
-   
+   background-image: url(../images/news/bg.png);
    padding: 120px 0;
 }
 
